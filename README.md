@@ -1,6 +1,6 @@
 # PureSip Website 🥤
 
-A juice café website developed using HTML, CSS & JS as part of my internship with InAmigos Foundation.
+A juice cafe website developed using HTML, CSS & JS as part of my internship with InAmigos Foundation.
 
 ## 🌐 Live Demo
 - [Vercel](https://puresip-website.vercel.app/)
